@@ -1,11 +1,20 @@
 # Automation Testing Framework
 
-This project demonstrates basic automation testing using Python.
+This project demonstrates a simple automation testing structure using Python.
 
-## Features
-- Automated browser testing
-- Simple test scripts
-- Beginner friendly structure
+## Technologies
+- Python
+- Selenium
+- PyTest
+
+## Project Structure
+
+automation-testing-framework
+│
+├── tests
+│   └── test_google.py
+├── requirements.txt
+└── README.md
 
 ## Author
 Mayank Srivastava
